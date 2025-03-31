@@ -25,5 +25,5 @@ Check the live demo [here](https://rabumaabraham.github.io/SeenoAI-Client1-Demo/
 
 
 ## Screenshots
-(![image](https://github.com/user-attachments/assets/4d6aded6-666a-489c-a609-341a8f7f75a2)
-)
+![image](https://github.com/user-attachments/assets/4d6aded6-666a-489c-a609-341a8f7f75a2)
+
